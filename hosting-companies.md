@@ -23,6 +23,7 @@ In alphabetical order:
 * [HostGalaxy](https://www.hostgalaxy.com)
 * [HostGator](http://www.hostgator.com)
 * [Hostico](https://hostico.ro)
+* [HostX](https://hostx.ro)
 * [Hostinger](https://www.hostinger.com)
 * [HostPresto](https://hostpresto.com)
 * [ICDSoft](https:///www.icdsoft.com)
